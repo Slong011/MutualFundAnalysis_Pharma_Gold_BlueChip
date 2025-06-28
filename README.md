@@ -10,4 +10,4 @@ This repository contains a written analysis comparing three mutual fund portfoli
 
 ## Purpose
 
-This analysis was conducted to highlight risk-return tradeoffs across different sectors, helping to inform general investment strategy comparisons. It is intended for educational use only and does not constitute financial advice.
+This analysis was conducted to highlight risk-return tradeoffs across different sectors. This analysis is presented for educational purposes only and does not constitute financial advice or investment recommendations. All fund references are hypothetical and used to demonstrate statistical analysis concepts.
